@@ -44,3 +44,10 @@ img{
 h3{
   font-size: x-large;
 }
+
+#links{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
